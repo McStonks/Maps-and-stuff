@@ -1,2 +1,2 @@
-# Maps-and-stuff
-Has a bunch of stuff I've made, whether it be maps, BEE2 packages, or some edited .vmt's, it's probably here.
+# Maps and stuff
+"It's got it all, it's got it all, absolute dynamite" -Wheatley, 2011
